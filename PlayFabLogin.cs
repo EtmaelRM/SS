@@ -12,7 +12,7 @@ using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
 using System.Linq;
 using System.Threading.Tasks;
-
+//Script para versionamiento en GitHub
 
 public class PlayFabLogin : MonoBehaviour
 {
